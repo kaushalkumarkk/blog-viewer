@@ -31,3 +31,4 @@ npm install
 npm run dev
 
 # Live url
+https://blog-viewer-app.netlify.app/
